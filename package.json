@@ -1,0 +1,21 @@
+{
+  "name": "firsttelegrambot",
+  "version": "1.0.0",
+  "description": "telegram bot for reminders example",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "node"
+  ],
+  "author": "DreamReal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
